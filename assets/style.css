@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+body {
+    background-color: rgb(156, 236, 196);
+    font-family: Quicksand;
+}
+
+.navbar {
+    box-shadow: 0 4px 14px -2px rgb(64, 79, 238);
+}
+
+h1 {
+    margin-top: 10px;
+    font-size: 50px;
+    color: rgb(64, 79, 238);
+    font-weight:lighter;
+    font-size: 300%;
+    padding-bottom: 15px;
+}
+
+span {
+    color:white;
+    font-weight: bold;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    margin-top: -70px;
+}
+
+li a {
+    padding-left: 25px;
+    padding-right: 2px;
+    font-size: 20px;
+    color:rgb(64, 79, 238);
+    text-decoration: none;
+}
+
+
+.item-list-about{
+        margin: 1%;
+        margin-top: 5%;
+        display: inline-block;
+      }
+      
+.item-list-about h2 {
+        font-size: 24px;
+        text-align: left;
+      }
+      
+.item-list-about p {
+        text-align: justify;
+        margin-left: 70px;
+      }
+
+.me img {
+    float: right;
+    margin-right: 300px;
+    margin-top: -180px;
+    width: 150px; 
+    height: 200px; 
+    overflow: hidden;
+    border-radius: 10%;
+}
+
+.item-list {
+    font-style: italic;
+    display: flex;
+    justify-content: flex-start
+}
+
+h2 {
+    color:white;
+    font-size: 24px;
+    text-align: left;
+    margin-left: 5%;
+}
