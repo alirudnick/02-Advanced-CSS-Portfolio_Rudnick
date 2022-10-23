@@ -61,7 +61,7 @@ li a {
     margin-right: 300px;
     margin-top: -180px;
     width: 150px; 
-    height: 200px; 
+    height: 250px; 
     overflow: hidden;
     border-radius: 10%;
 }
@@ -77,4 +77,63 @@ h2 {
     font-size: 24px;
     text-align: left;
     margin-left: 5%;
+    margin-top: 15;
+}
+
+#hero {
+    width:700px;
+    height:350px;  
+}
+
+.item-hero {
+    width:700px;
+    height:350px;
+    box-shadow: 5px 5px 10px 2px grey;   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -15px;
+    margin-top: 55px;
+}
+   
+.item-hero:hover {
+    opacity:100%;
+    transform: scale(1.2);
+}
+
+div h3{
+    margin-top: 25px;
+}
+
+h3 {
+color: white;
+margin-top: 5px;
+font-size: 30px;
+}
+
+.card img {
+    width:500px;
+    height:250px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px 2px grey; 
+    color: #fff;
+}
+
+
+  .card:hover img {
+    opacity:100%;
+    transform: scale(1.2);  
+}
+
+a:hover {
+    color: white
+}
+
+    
+footer {
+    text-align: center;
+}
+
+#profile:hover img {
+    transform: scale(1.1);
 }
