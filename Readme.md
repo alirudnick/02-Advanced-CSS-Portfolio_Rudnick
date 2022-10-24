@@ -11,7 +11,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 ## Description
 
 ```
-Display samles of previous work and projects 
+Display samples of previous work and projects 
 Display name, a recent photo and links to sections about, the work, and how to contact.
 When I click one of the links in the navigation, the UI scrolls to the corresponding section
 When I click on the link to the section about work, the UI scrolls to a section with titled images of the developer's applications
