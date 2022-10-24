@@ -25,3 +25,7 @@ When I resize the page or view the site on various screens and devices, I am pre
 The following image shows the web application's appearance and functionality:
 
 <img width="1418" alt="Screen Shot 2022-10-24 at 10 31 37 AM" src="https://user-images.githubusercontent.com/107882457/197563223-9d21668b-f526-4824-9910-eaf0628cf19e.png">
+
+Live: https://alirudnick.github.io/Portfolio_Rudnick/
+
+Repo: https://github.com/alirudnick/Portfolio_Rudnick.git
