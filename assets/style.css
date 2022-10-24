@@ -41,7 +41,6 @@ li a {
 
 
 .item-list-about{
-        margin: 1%;
         margin-top: 5%;
         display: inline-block;
       }
@@ -76,8 +75,8 @@ h2 {
     color:white;
     font-size: 24px;
     text-align: left;
-    margin-left: 5%;
-    margin-top: 15;
+    margin-top: 15px;
+    margin-left: 15px;
 }
 
 #hero {
@@ -92,7 +91,7 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: -15px;
+    margin-bottom: -50px;
     margin-top: 55px;
 }
    
@@ -102,28 +101,42 @@ h2 {
 }
 
 div h3{
-    margin-top: 25px;
+    margin-top: 60px;
 }
 
 h3 {
 color: white;
-margin-top: 5px;
 font-size: 30px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+margin-top: -5px
 }
 
 .card img {
-    width:500px;
-    height:250px;
-    margin-top: 50px;
+    width:300px;
+    height:200px;
+    margin-top: 20px;
     box-shadow: 5px 5px 10px 2px grey; 
     color: #fff;
+    display: flex;
+    margin-left: 25px;
+    
 }
 
 
-  .card:hover img {
-    opacity:100%;
-    transform: scale(1.2);  
+.card:hover img {
+    opacity: 100%;
+    transform: scale(1.2); 
 }
+
+.my-work {
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 50px;
+      }
 
 a:hover {
     color: white
