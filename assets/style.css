@@ -77,23 +77,22 @@ h2 {
     width: 700px;
     height: 350px;
     box-shadow: 5px 5px 10px 2px grey;
-    margin-top: 10%;
 }   
 
 .item-hero {
     width: 700px;
     height: 350px;
     margin-top: 5px;
-    margin-left: 25%;
+    margin: auto;
 }
 
-/* Horiseon title */
-.horiseon {
+/* Longevity title */
+.longevity {
     font-size: 24px;
     color: rgb(64, 79, 238);
     text-align: center;
-    margin-top: 6%;
     letter-spacing: 2.5px;
+
 }
 
 .item-hero:hover {
@@ -135,6 +134,10 @@ h3 {
     padding: 50px;
 }
 
+.container {
+    display: flex;
+}
+
 a:hover {
     color: white
 }
@@ -152,3 +155,4 @@ footer {
 #profile:hover img {
     transform: scale(1.1);
 }
+

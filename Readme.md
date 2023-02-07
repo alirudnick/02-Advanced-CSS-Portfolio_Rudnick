@@ -23,5 +23,3 @@ When I resize the page or view the site on various screens and devices, I am pre
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
-
-./images/Website.png
